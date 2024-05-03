@@ -1,4 +1,4 @@
-Free Download Source Code "Online tourism Management System"
+Free Download Source Code "Tourist Management System"
 
 FIRST Download
 
@@ -21,12 +21,8 @@ FIRST Download
 6. Import tourism_db.sql file(given inside the zip package in SQL file folder)
 
 7.Run the script http:/tourism
-**LOGIN DETAILS** 
 
+**LOGIN DETAILS** 
 Admin
 user: admin
 pass: admin123
-
-
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
